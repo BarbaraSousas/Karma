@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Mensagem.cs">
+    <Files>
+      <File FileName="Assets/scripts/Controle_tela_menu.cs" Line="5" Column="2" />
+      <File FileName="Assets/scripts/Carro.cs" Line="18" Column="1" />
+      <File FileName="Assets/scripts/Intaciador_carro.cs" Line="6" Column="1" />
+      <File FileName="Assets/scripts/Nuvem.cs" Line="18" Column="46" />
+      <File FileName="Assets/scripts/Intanciador_Nuvem.cs" Line="27" Column="3" />
+      <File FileName="Assets/scripts/Mensagem.cs" Line="16" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
